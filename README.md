@@ -15,7 +15,7 @@
 | **Written On** | June 24, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/le-chemin-du-retour/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Music Rights & Licensing for Le Chemin Du Retour](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/le-chemin-du-retour/) |
+| **Get License** | [Request Licensing for Le Chemin Du Retour](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/le-chemin-du-retour/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -32,7 +32,10 @@
 
 ## 📝 Lyric Preview
 
-> [Excerpt will appear here after the final lyric is saved.]
+> Ton parfum sur ma veste, la nuit nous appartient
+> Sous les lumières qui tournent, jusqu'au petit matin
+> La basse qui résonne, la tension monte encore
+> T'es ma reine de la piste, mon plus beau décor
 > ...
 
 [**View Full Lyrics**](./lyrics.txt) | [**View Metadata**](./manifest.json) | [**View Proofs**](./hashes.txt)
